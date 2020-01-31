@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །དུས་གསུམ་རྒྱལ་བ་ཀུན་གྱི་ཡུམ་གཅིག་འཕགས་མ་ལབ་ཀྱི་སྒྲོལ་མའི་རྣམ་པར་ཐར་པ་དང༌།
+    ཕུང་པོ་གཟན་བསྐྱུར་གྱི་རྣམ་པར་བཤད་པ་མཁའ་འགྲོ་བྱེ་བའི་གསང་ལམ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཆོས་ཀྱི་སེང་གེ ༼མཁའ་སྤྱོད་དགྱེས་པའི་རྡོ་རྗེ།༽
+  sku: LS-CHD-08
+  layers:
+  - book_title
+  - author
+  - chapter_title
+web_metadata:
+  title:
+    en: The Secret Path of a Million Ḍākinīs’:A Biography of Machig Labdon and an
+      Explanation of Offering Bodies as Food
+    bo: དུས་གསུམ་རྒྱལ་བ་ཀུན་གྱི་ཡུམ་གཅིག་འཕགས་མ་ལབ་ཀྱི་སྒྲོལ་མའི་རྣམ་པར་ཐར་པ་དང་།
+      ཕུང་པོ་གཟན་བསྐྱུར་གྱི་རྣམ་པར་བཤད་པ་མཁའ་འགྲོ་བྱེ་བའི་གསང་ལམ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Chod Series–  Book 8
+    bo: གཅོད་ཡུལ།–  དེབ། ༨
+  author:
+    en: Chokyi Senge (Khacho Gyepe Dorje)
+    bo: ཆོས་ཀྱི་སེང་གེ ༼མཁའ་སྤྱོད་དགྱེས་པའི་རྡོ་རྗེ།༽
+  pusblisher:
+    en: Dingri Langkor Zhijed Ling
+    bo: དིང་རི་གླང་སྐོར་ཞི་བྱེད་གླིང་།
+  sku: LS-CHD-08
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LS-CHD-08.epub
+  description:
+    en: ''
+    bo: ''
