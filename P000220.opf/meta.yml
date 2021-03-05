@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000220
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དུས་གསུམ་རྒྱལ་བ་ཀུན་གྱི་ཡུམ་གཅིག་འཕགས་མ་ལབ་ཀྱི་སྒྲོལ་མའི་རྣམ་པར་ཐར་པ་དང༌།
     ཕུང་པོ་གཟན་བསྐྱུར་གྱི་རྣམ་པར་བཤད་པ་མཁའ་འགྲོ་བྱེ་བའི་གསང་ལམ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཆོས་ཀྱི་སེང་གེ ༼མཁའ་སྤྱོད་དགྱེས་པའི་རྡོ་རྗེ།༽
-  sku: LS-CHD-08
   layers:
   - book_title
   - author
   - chapter_title
+  id: LS-CHD-08
 web_metadata:
   title:
     en: The Secret Path of a Million Ḍākinīs’:A Biography of Machig Labdon and an
